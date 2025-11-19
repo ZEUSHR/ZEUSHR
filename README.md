@@ -1,1 +1,1 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=600&color=19FF0F&multiline=true&width=435&lines=Access+Granted...;Initializing+Zeus...;Booting+GitHub+Terminal...;Welcome+to+My+System.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=600&color=19FF0F&width=435&lines=Access+Granted...;Initializing+Zeus...;Booting+GitHub+Terminal...;Welcome+to+My+System.)](https://git.io/typing-svg)
