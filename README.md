@@ -9,4 +9,16 @@
 ---
 
 # ⚡ ZeusHR — Cyber Developer | Terminal Wizard
+Identity: ZEUS
+Access Level: ROOT
+Status: Online
+Threat Level: UNKNOWN
+Trace Status: Untraceable
 
+---
+
+## 🟩 About Me
+I write code the way hackers breathe — fast, sharp, silent.
+Building tools, breaking limits, automating chaos.
+Living inside terminals, shells, servers, and systems.
+Turning ideas into scripts. Turning scripts into power.
